@@ -21,4 +21,4 @@ Projeto desenvolvido para controle de estoque de papelaria utilizando PHP e MySQ
 
 ## Desenvolvedor
 
-Debora Barros
+Thiago Danel
